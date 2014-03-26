@@ -1,0 +1,37 @@
+{
+    "name": "devrama-book",
+    "title": "Devrama Book",
+    "description": "'Devrama Book' is a jQuery Plugin that you can easily make a 3D book. Simply use HTML or Text to add content inside. You can customize the look & feel using CSS.",
+    "keywords": [
+        "book",
+	"3d",
+	"css3",
+        "flip",
+	"text",
+	"effects"
+    ],
+    "version": "0.9.0",
+    "author": {
+        "name": "WON JONG YOO",
+        "url": "http://devrama.com"
+    },
+    "maintainers": [
+        {
+            "name": "WON JONG YOO",
+            "url": "http://devrama.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/Devrama/devrama-book/issues",
+    "homepage": "http://devrama.com/static/devrama-book/",
+    "demo": "http://devrama.com/static/devrama-book/",
+    "download": "http://devrama.com/static/devrama-book/",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
